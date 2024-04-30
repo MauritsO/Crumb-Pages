@@ -1,5 +1,4 @@
-# Crumb-Pages
-Crumb privacy Policy
+# Crumb privacy Policy
 
 **Privacy Policy**
 
